@@ -37,7 +37,7 @@ export default class Navbar  extends Component{
                 <li><a href="#">Services</a></li>
                 <li><a href="#">Skills</a></li>
                 <li><a href="#">Projects</a></li>
-                <li><a href="#">Contacts</a></li>
+                <li><a href="#">Contact me</a></li>
             </ul>
             <div className="menu-btn" onClick={this.clickbtn}>
                 <i className="fas fa-bars"></i>
