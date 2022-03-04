@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/Personel_Portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/Personel_Portfolio/static/js/main.fda95ef4.js",
+    "main.css": "/Personel_Portfolio/static/css/main.7b02e1da.css",
+    "main.js": "/Personel_Portfolio/static/js/main.8de3592a.js",
     "static/js/787.1ed0c42c.chunk.js": "/Personel_Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/logo.svg": "/Personel_Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/port.png": "/Personel_Portfolio/static/media/port.df353654f31203a57cc9.png",
+    "static/media/pict1.png": "/Personel_Portfolio/static/media/pict1.b1ec3aa970278fef5524.png",
+    "static/media/Untitled.png": "/Personel_Portfolio/static/media/Untitled.506cb4927bedaf529936.png",
+    "static/media/profile.jpg": "/Personel_Portfolio/static/media/profile.0da698a7882568e33cea.jpg",
+    "static/media/dahboard.png": "/Personel_Portfolio/static/media/dahboard.482b62db30caf575002f.png",
+    "static/media/pict2.png": "/Personel_Portfolio/static/media/pict2.9d1338e629bc959d18b1.png",
     "index.html": "/Personel_Portfolio/index.html",
-    "main.073c9b0a.css.map": "/Personel_Portfolio/static/css/main.073c9b0a.css.map",
-    "main.fda95ef4.js.map": "/Personel_Portfolio/static/js/main.fda95ef4.js.map",
+    "main.7b02e1da.css.map": "/Personel_Portfolio/static/css/main.7b02e1da.css.map",
+    "main.8de3592a.js.map": "/Personel_Portfolio/static/js/main.8de3592a.js.map",
     "787.1ed0c42c.chunk.js.map": "/Personel_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.fda95ef4.js"
+    "static/css/main.7b02e1da.css",
+    "static/js/main.8de3592a.js"
   ]
 }
